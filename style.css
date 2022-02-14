@@ -1,0 +1,23 @@
+body {
+    font-family: Arial; 
+}
+
+#heading {
+    text-align: center;
+}
+
+#circle1 {
+    fill: cornflowerblue;
+    stroke: black;
+    stroke-width: 3;
+}
+
+#circle2 {
+    fill: darkseagreen;
+}
+
+#circle3 {
+    fill: mediumorchid;
+    stroke: black;
+    stroke-width: 3;
+}
